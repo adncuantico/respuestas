@@ -1,0 +1,35 @@
+{
+  "bins": {
+    "T1_identifica_impacto_observacion": "Menciona cómo la contaminación lumínica afecta telescopios, binoculares o cielo nocturno.",
+    "T2_menciona_medidas_calidad_cielo": "Hace referencia a magnitud límite, Bortle, brillo del cielo, sensores SQM u otras medidas técnicas.",
+    "T3_propone_soluciones_tecnicas": "Propone cutoff, control de dirección de luz, filtros, temperatura de color o rediseño lumínico.",
+    "T4_explica_mecanismo_perdida_calidad": "Describe mecanismo técnico claro: más luz = mayor dispersión = menor visibilidad.",
+    
+    "E1_menciona_costos_energeticos": "Reconoce el gasto energético o la ineficiencia.",
+    "E2_propone_tecnologias_eficientes": "Propone LED cálido, sensores, automatización, eficiencia.",
+    "E3_analiza_costo_beneficio": "Habla explícitamente de retorno de inversión.",
+    "E4_conecta_economia_sostenibilidad": "Vincula ahorro energético con sostenibilidad o reducción de CO2.",
+    
+    "C1_reconoce_patrimonio_cultural": "Considera el cielo como patrimonio, arte, cultura.",
+    "C2_menciona_impacto_exp_presiones_artisticas": "Describe efectos en fotografía, relatos, estética o prácticas artísticas.",
+    "C3_propone_acciones_culturales": "Sugiere actividades educativas, noches de cielo oscuro, divulgación.",
+    "C4_conecta_identidad_territorial": "Relación con la identidad o paisaje cultural de Medellín.",
+    
+    "S1_reconoce_derecho_cielo_oscuro": "Menciona derechos ciudadanos o acceso equitativo al cielo nocturno.",
+    "S2_propone_participacion_comunitaria": "Sugiere participación social, comunidades o gobernanza.",
+    "S3_identifica_riesgos_sociales": "Reconoce efectos en salud, seguridad o bienestar.",
+    "S4_identifica_actores_sociales": "Menciona actores: alcaldía, EPM, universidades, barrios, colectivos.",
+    
+    "X1_conecta_dos_dimensiones": "Relaciona dos dimensiones del problema.",
+    "X2_conecta_tres_dimensiones": "Relaciona tres dimensiones del problema.",
+    "X3_conecta_cuatro_dimensiones": "Integra T+E+C+S.",
+    "X4_soluciones_contexto_medellin": "Soluciones específicas y viables para Medellín."
+  },
+
+  "levels": {
+    "1": "Menciona solo un aspecto simple sin conexiones ni mecanismos.",
+    "2": "Relaciona dos dimensiones pero sin explicar mecanismos claros.",
+    "3": "Explica mecanismos causa-efecto e integra tres dimensiones.",
+    "4": "Integra las cuatro dimensiones y propone soluciones equilibradas contextualizadas a Medellín."
+  }
+}
